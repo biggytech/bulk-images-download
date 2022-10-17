@@ -15,3 +15,9 @@ For example you want to download images in a rage from 'https://some-site.com/fi
 
 > **Note**
 > The `output_path` directory should exist before the script run.
+
+## Demo
+
+`python3 script.py https://via.placeholder.com/ jpg ./data 600 605`
+
+![Demo](./demo/demo.png).
