@@ -1,4 +1,4 @@
-# Python Download Images
+# Bulk Images Download
 
 This tool downloads bunch of images by provided url and range.
 
